@@ -854,7 +854,7 @@ body.dark-theme {
   width: 100%;
   height: 100%;
   border: 2px solid var(--text-color-light);
-  border-radius: 2px;
+  border-radius: 1rem;
   padding: 1.5rem;
   font-size: var(--normal-font-size);
   font-family: var(--title-font);
